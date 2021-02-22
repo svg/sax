@@ -1,4 +1,4 @@
-# svgo/sax
+# svg/sax
 
 A maintained fork of [sax-js](https://github.com/isaacs/sax-js) sax-style parser for XML and HTML.
 
