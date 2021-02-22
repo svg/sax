@@ -63,6 +63,7 @@ parser.onend = function () {
 };
 
 parser.write('<xml>Hello, <who name="world">world</who>!</xml>').close();
+```
 
 
 ## Arguments
