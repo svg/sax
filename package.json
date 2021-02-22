@@ -1,7 +1,14 @@
 {
-  "name": "sax",
+  "name": "@svgo/sax",
   "description": "An evented streaming XML parser in JavaScript",
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "contributors": [
+    {
+      "name": "Bogdan Chadkin",
+      "email": "trysound@yandex.ru",
+      "url": "http://github.com/TrySound"
+    }
+  ],
   "version": "1.2.4",
   "main": "lib/sax.js",
   "license": "ISC",

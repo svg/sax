@@ -1,6 +1,6 @@
-# sax js
+# svgo/sax
 
-A sax-style parser for XML and HTML.
+A maintained fork of [sax-js](https://github.com/isaacs/sax-js) sax-style parser for XML and HTML.
 
 Designed with [node](http://nodejs.org/) in mind, but should work fine in
 the browser or other CommonJS implementations.
