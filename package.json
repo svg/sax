@@ -21,10 +21,7 @@
   },
   "scripts": {
     "test": "tap test/*.js --cov -j4",
-    "posttest": "standard -F test/*.js lib/*.js",
-    "preversion": "npm test",
-    "postversion": "npm publish",
-    "postpublish": "git push origin --all; git push origin --tags"
+    "lint": "standard -F test/*.js lib/*.js"
   },
   "devDependencies": {
     "standard": "^8.6.0",
