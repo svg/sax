@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "0.1.0",
   "name": "@trysound/sax",
   "description": "An evented streaming XML parser in JavaScript",
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
