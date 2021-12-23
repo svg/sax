@@ -4,11 +4,11 @@ require(__dirname).test({
     '</r>',
   expect: [
     ['opentagstart', {name: 'R', attributes: {}}],
-    ['attribute', {name: 'CLASS', value: '&lt; and &lt; as well as &amp; and &amp;'}],
+    ['attribute', {name: 'CLASS', value: '< and < as well as & and &'}],
     ['opentag', {
       name: 'R',
       attributes: {
-        CLASS: '&lt; and &lt; as well as &amp; and &amp;'
+        CLASS: '< and < as well as & and &'
       },
       isSelfClosing: false
     }],
